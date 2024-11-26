@@ -20,3 +20,25 @@ Erwartungen:
 dynamische Anpassung der Parameter verdeutlichen.  
 -    Ideal wäre eine standalone HTML-Datei oder ein Widget, das 
 ohne zusätzlichen Server läuft (Plotly für interaktive Anpassungen).
+
+
+## Zusammenfassung der Verteilungen und Parameter  
+
+#### Normalverteilung  
+- Parameter: μ (Mittelwert), σ (Standardabweichung)  
+- Sichtbar bei Start.
+
+#### Exponentialverteilung  
+- Parameter: λ (Rate).
+
+#### Poissonverteilung  
+- Parameter: λ (Rate), Balkendiagramm.  
+
+#### Binomialverteilung  
+- Parameter: n (Anzahl Versuche), p (Erfolgswahrscheinlichkeit).  
+
+#### Uniformverteilung  
+- Parameter: a (Untere Grenze), b (Obere Grenze).  
+
+#### Student-t-Verteilung  
+- Parameter: ν (Freiheitsgrade).  
